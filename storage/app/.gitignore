@@ -1,3 +1,4 @@
 *
 !public/
 !.gitignore
+!table_data.json
